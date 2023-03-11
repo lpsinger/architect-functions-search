@@ -16,6 +16,7 @@
     "index.js",
     "index.d.ts"
   ],
+  "sideEffects": false,
   "scripts": {
     "prepare:husky": "husky install",
     "prepare:tsc": "tsc",
